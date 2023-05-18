@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import MyLibTest
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let test = MyLibTest.test()
+        print("test",test)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
