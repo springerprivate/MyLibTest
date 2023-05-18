@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MyLibTest
-=======
 # MyLibTest
 
 [![CI Status](https://img.shields.io/travis/springerprivate/MyLibTest.svg?style=flat)](https://travis-ci.org/springerprivate/MyLibTest)
@@ -30,4 +27,3 @@ springerprivate, springerprivate@gmail.com
 ## License
 
 MyLibTest is available under the MIT license. See the LICENSE file for more info.
->>>>>>> 48d9bf4 (Initial commit)
